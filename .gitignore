@@ -1,0 +1,15 @@
+.env
+
+*.db
+
+data/uploads/
+data/sroie/
+data/processed/
+
+*.pkl
+data/layoutlm_finetuned/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
