@@ -1,5 +1,7 @@
 # Receipt Analyzer
 
+Update: Previous commit history has been cleared. Active development continues from this point with a focus on improving the overall architecture and model performance.
+
 End-to-end receipt processing system built for learning. Given a receipt image, it extracts structured data using OCR and regex, classifies the spending category with a trained ML model, detects anomalies, and exposes everything through a REST API with an analytics dashboard.
 
 **Dataset:** [SROIE v2](https://rrc.cvc.uab.es/?ch=13) — 626 train / 347 test Malaysian retail receipts.
